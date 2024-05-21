@@ -1,8 +1,9 @@
-# DBMS Assignment 3 - Club Management System Webapp
+# Club Management System Webapp Summary
+Please note this is a summary made at an intermediate stage; refer to the final pdf report to know about the project's final touches.
 
 ## Made with Flask and MySQL
 
-### Setup (G1 and G2)
+### Setup 
 
 1. Install Python
 2. Install MySQL
@@ -184,7 +185,7 @@ On performing we start with this page displaying all the tables and we can selec
 
 ## Work Distribution
 
-### G1
+### Group1
 
 1. #### Anshul Choudhary
    - Worked on ideating the initial design of the website.
@@ -202,7 +203,7 @@ On performing we start with this page displaying all the tables and we can selec
    - Made beautification and visual changes to various components of project.
    - Assisted in debugging of various issues arrived during linking.
 
-### G2
+### Group2
 
 1. #### Shubh Singhal
    - Ideated and wrote various backend queries required for smooth functioning of webapp.
