@@ -1,5 +1,5 @@
 # Club Management System Webapp Summary
-Please note this is a summary made at an intermediate stage; refer to the final pdf report to know about the project's final touches.
+Please note this is a summary made at an intermediate stage; refer to the Final_Report.pdf to know about the project's final touches.
 
 ## Made with Flask and MySQL
 
